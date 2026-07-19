@@ -1,0 +1,54 @@
+[
+    {
+        "tmdb_id": 1396,
+        "media_type": "tv",
+        "title": "Breaking Bad",
+        "genre_ids": [
+            18,
+            80
+        ]
+    },
+    {
+        "tmdb_id": 687163,
+        "media_type": "movie",
+        "title": "Project Hail Mary",
+        "genre_ids": [
+            878,
+            12
+        ]
+    },
+    {
+        "tmdb_id": 869250,
+        "media_type": "movie",
+        "title": "Being James Bond",
+        "genre_ids": [
+            99
+        ]
+    },
+    {
+        "tmdb_id": 60622,
+        "media_type": "tv",
+        "title": "Fargo",
+        "genre_ids": [
+            80,
+            18
+        ]
+    },
+    {
+        "tmdb_id": 37680,
+        "media_type": "tv",
+        "title": "Suits",
+        "genre_ids": [
+            18
+        ]
+    },
+    {
+        "tmdb_id": 60574,
+        "media_type": "tv",
+        "title": "Peaky Blinders",
+        "genre_ids": [
+            18,
+            80
+        ]
+    }
+]
