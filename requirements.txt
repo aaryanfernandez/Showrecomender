@@ -1,0 +1,2 @@
+Download streamlit and tmdbsimple. 
+Also get a api key for the tmdb database.
